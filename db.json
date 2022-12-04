@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Post office delivery",
+      "day": "Monday at 10:30am.",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Exam",
+      "day": "January 15th at 09:00am.",
+      "reminder": false,
+      "id": 2
+    }
+  ]
+}
